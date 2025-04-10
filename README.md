@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, I'm Anthony Chae
+
+MS CS student at Stevens Institute of Technology.
+
+### 🌱 Endeavors: 
+
+- Backend Development
+- Machine Learning and AI
+- Rock Climbing
+
+### 📫 How to reach me:
+
+- LinkedIn: [/in/anthony-chae/](https://www.linkedin.com/in/anthony-chae/)
+- Email: chaeanthony21@gmail.com
 
 <!--
 **chaeanthony/chaeanthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

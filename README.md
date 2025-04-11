@@ -1,6 +1,6 @@
 ## Hi, I'm Anthony Chae
 
-MS CS student at Stevens Institute of Technology.
+MS CS student at Stevens Institute of Technology. I love to learn 😄.
 
 ### 🌱 Endeavors: 
 
@@ -8,7 +8,7 @@ MS CS student at Stevens Institute of Technology.
 - Machine Learning and AI
 - Rock Climbing
 
-### 📫 How to reach me:
+### 📫 Connect with me:
 
 - LinkedIn: [/in/anthony-chae/](https://www.linkedin.com/in/anthony-chae/)
 - Email: chaeanthony21@gmail.com

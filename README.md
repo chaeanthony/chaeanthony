@@ -1,4 +1,4 @@
-## Hi, I'm Anthony Chae
+## 👋 Hi, I'm Anthony Chae
 
 MS CS student at Stevens Institute of Technology. I love to learn 😄.
 

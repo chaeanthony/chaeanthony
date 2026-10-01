@@ -3,13 +3,12 @@
 ### 🌱 Endeavors: 
 
 - Backend Development
-- Machine Learning and AI
+- ML + AI
 - Rock Climbing
 
 ### 📫 Connect with me:
 
 - LinkedIn: [/in/anthony-chae/](https://www.linkedin.com/in/anthony-chae/)
-- Email: chaeanthony21@gmail.com
 
 <!--
 **chaeanthony/chaeanthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
